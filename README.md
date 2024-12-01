@@ -63,7 +63,7 @@ Before running the application, ensure you have the following installed:
 
 1. **Upload a Document:**
     
-    - Select a `.txt` file using the file input on the homepage.
+    - Select a file using the file input on the homepage.
     - Click the "Upload" button.
 2. **View Results:**
     
