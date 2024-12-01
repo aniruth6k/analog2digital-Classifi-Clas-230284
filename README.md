@@ -76,8 +76,7 @@ analog2digital-Classifi-Clas-230284/
 ├── app.py                  # Main Flask application
 ├── tokenizer.pickle        # Tokenizer for text preprocessing
 ├── model.h5                # Trained Keras model
-├── templates/
-│   └── index.html          # Frontend HTML template
+├── index.html              # Frontend HTML template
 └── uploads/                # Directory to save uploaded files
 ```
 
