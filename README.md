@@ -1,4 +1,4 @@
-# Document Classification Web Application
+# SmartSortAI - Document Classification Web Application
 
 This repository, **analog2digital-Classifi-Clas-230284**, contains a Flask-based web application that classifies documents into categories using deep learning model. Users can upload files, and the application predicts the category of the document.
 
